@@ -1,0 +1,30 @@
+{
+  "name": "owapis-js",
+  "version": "1.0.0",
+  "description": "OWApis JS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "otherwise",
+    "sas",
+    "apis",
+    "sdk",
+    "geolocation",
+    "geocode",
+    "reverse"
+  ],
+  "author": "Otherwise SAS",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "is": "^3.2.1",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-jest": "^20.0.3",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^20.0.4"
+  }
+}
