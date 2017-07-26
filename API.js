@@ -47,8 +47,9 @@ module.exports = class OWApis {
                     q: string
                 }
             })
-            .then(obj => {
-                return (obj.results ||  {}).results ||  [];
+            .then((obj) => {
+                obj = obj ||  {};
+                return obj.results ||  [];
             });
     }
 
