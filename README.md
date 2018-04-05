@@ -114,3 +114,6 @@ Hecho con <3 en Colombia
 
 ## License
 MIT
+
+## Support us on Patreon
+[![patreon](./repo/patreon.png)](https://patreon.com/owsas)
